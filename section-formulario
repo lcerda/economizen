@@ -1,0 +1,25 @@
+<p>O aplicativo oferece um controle sobre o gasto mensal em sua conta e consumo de água. Ele irá lhe auxiliar com base no quanto você deseja gastar por mês e quantidade de litros indicada para que não ocorra nenhum disperdicio ao mesmo tempo.</p>
+    
+    <section>
+        <p>Formulario Para Cadastro</p>
+        
+        <form action="">
+            
+            <div>
+                <label for="Nome">Nome:</label>
+                <input type="text" id="nome" />
+            </div>
+            
+            <div>    
+                <label for="Email">Email:</label>
+                <input type="text" id="email" />
+            </div>
+            
+            <div>
+                <label for="Numero">Numero:</label>
+                <input type="text" id="numero" />
+            </div>
+            
+        </form>
+        
+    </section>
